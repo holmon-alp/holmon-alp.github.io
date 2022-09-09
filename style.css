@@ -543,7 +543,6 @@ section .title::after{
   outline: none;
   font-size: 18px;
   text-align: center;
-  padding-top: 30%;
   font-weight: 500;
   border-radius: 6px;
   cursor: pointer;
