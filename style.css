@@ -535,7 +535,7 @@ section .title::after{
   display: flex;
   align-items: center;
 }
-.right form .button-area button{
+.right form .button-area a{
   color: #fff;
   display: block;
   width: 160px!important;
